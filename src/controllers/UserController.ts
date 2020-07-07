@@ -26,24 +26,28 @@ const user = [
       {
         name: "Cantagalli Corretora",
         description:
-          "This was my first real world website, this page was designed inraw HTML and CSS to copy the original design of a template inWordPress following the client expetation.",
+          "This was my first real world website, this page was designed in raw HTML and CSS to copy the original design of a template in WordPress following the client expetations.",
         code: "https://github.com/bspolidorio/cantagalli_seguradora",
         live: "http://cantagalli.com.br/",
       },
       {
         name: "Star wars",
         description:
-          "A Star Wars fan page, created in React.js and Apollo-client tointeract with a GraphQL API. Styled using Styled-components.",
+          "A Star Wars fan page, created in React.js and Apollo-client to interact with a GraphQL API. Styled using Styled-components.",
         code: "https://github.com/bspolidorio/starwars",
         live: "https://starwars-react.herokuapp.com/",
       },
       {
-        name: "Task Counter",
-        description: "React + Apollo project",
+        name: "Online Resume - backend",
+        description: "...",
+        code: "https://github.com/bspolidorio/online-resume-backend",
+        live: "https://online-resume-backend.herokuapp.com",
       },
       {
-        name: "Online Resume",
-        description: "React + Apollo project",
+        name: "Online Resume - Frontend",
+        description: "...",
+        code: "https://github.com/bspolidorio/online-resume-frontend",
+        live: "https://bspolidorio.github.io/online-resume-frontend/",
       },
     ],
   },
